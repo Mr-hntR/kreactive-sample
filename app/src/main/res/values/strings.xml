@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sample Kreactive</string>
+    <string name="back">back</string>
+    <string name="toolbar_title_projects">Sequence Input</string>
+    <string name="toolbar_title_project_detail">Sequence Result</string>
+    <string name="first_word">First word</string>
+    <string name="second_word">Second word</string>
+    <string name="validate">Validate</string>
+</resources>
